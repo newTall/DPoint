@@ -1,0 +1,871 @@
+{
+  "data": {
+    "list": [
+      {
+        "brand": 10406,
+        "brandName": "七星",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20170503/5184b837-6297-4ccc-b5c3-bef4af0f5bbb_360x360H",
+        "isTagPreSell": false,
+        "price": 373,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 678,
+          "originalPrice": 373,
+          "promotionDisplay": "特价",
+          "promotionPrice": 373,
+          "skuId": 113685
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 113685,
+        "sortScore": 0.6704600134820691,
+        "status": 1,
+        "stock": 1179,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "东北基地长粒香米（散称）500g",
+        "venderId": 1,
+        "wareId": 113685
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20170503/d088d51b-7fd7-4d59-aa7f-e5a03334a617_360x360H",
+        "isTagPreSell": false,
+        "price": 274,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 498,
+          "originalPrice": 274,
+          "promotionDisplay": "特价",
+          "promotionPrice": 274,
+          "skuId": 113720
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 113720,
+        "sortScore": 0.5630620042573827,
+        "status": 1,
+        "stock": 58,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "玉米面（散称）500g",
+        "venderId": 1,
+        "wareId": 113720
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160217/1f246337-dd76-46f8-8956-baaf9c3b7680_360x360H",
+        "isTagPreSell": false,
+        "price": 438,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1196,
+          "originalPrice": 438,
+          "promotionDisplay": "特价",
+          "promotionPrice": 438,
+          "skuId": 117021
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117021,
+        "sortScore": 0.555194271858966,
+        "status": 1,
+        "stock": 72,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "单晶冰糖（散称）500g",
+        "venderId": 1,
+        "wareId": 117021
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160104/307d4db0-b6fc-4458-9c7e-e4fb1debeb21_360x360H",
+        "isTagPreSell": false,
+        "price": 560,
+        "promotionInfo": {
+          "offPrice": 560,
+          "originalPrice": 560,
+          "promotionPrice": 560,
+          "skuId": 117015
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117015,
+        "sortScore": 0.5489031632371913,
+        "status": 1,
+        "stock": 5,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "腐竹（散称）200g",
+        "venderId": 1,
+        "wareId": 117015
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20170503/e69d444b-bbd5-4a85-92cd-4cfcc27d4217_360x360H",
+        "isTagPreSell": false,
+        "price": 190,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 250,
+          "originalPrice": 190,
+          "promotionDisplay": "特价",
+          "promotionPrice": 190,
+          "skuId": 115334
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115334,
+        "sortScore": 0.4767634920234141,
+        "status": 1,
+        "stock": 226,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "精品粽叶 40g",
+        "venderId": 1,
+        "wareId": 115334
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/f11f626d-ed4d-4d6b-9f96-e39253206b38_360x360H",
+        "isTagPreSell": false,
+        "price": 660,
+        "promotionInfo": {
+          "offPrice": 660,
+          "originalPrice": 660,
+          "promotionPrice": 660,
+          "skuId": 115388
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115388,
+        "sortScore": 0.4754907054635266,
+        "status": 1,
+        "stock": 5,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "花椒（散称）30g",
+        "venderId": 1,
+        "wareId": 115388
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/854c064b-18d2-468c-92ce-88ae4187e352_360x360H",
+        "isTagPreSell": false,
+        "price": 1340,
+        "promotionInfo": {
+          "offPrice": 1340,
+          "originalPrice": 1340,
+          "promotionPrice": 1340,
+          "skuId": 117014
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117014,
+        "sortScore": 0.4751453683199847,
+        "status": 1,
+        "stock": 6,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "干香菇（散称）140g",
+        "venderId": 1,
+        "wareId": 117014
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160105/0203344b-ce0c-458a-a4bc-ba181be9ea22_360x360H",
+        "isTagPreSell": false,
+        "price": 1488,
+        "promotionInfo": {
+          "offPrice": 1488,
+          "originalPrice": 1488,
+          "promotionPrice": 1488,
+          "skuId": 115340
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115340,
+        "sortScore": 0.4426954787101653,
+        "status": 1,
+        "stock": 17,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "黑木耳（散称）200g",
+        "venderId": 1,
+        "wareId": 115340
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/d89f8a86-fd49-461d-983c-daee4932697b_360x360H",
+        "isTagPreSell": false,
+        "price": 1400,
+        "promotionInfo": {
+          "offPrice": 1400,
+          "originalPrice": 1400,
+          "promotionPrice": 1400,
+          "skuId": 117009
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117009,
+        "sortScore": 0.43599364769932625,
+        "status": 1,
+        "stock": 9,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "莲子（散称）120g",
+        "venderId": 1,
+        "wareId": 117009
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160105/ef2e8dc4-fe17-4432-a222-215a82930b5c_360x360H",
+        "isTagPreSell": false,
+        "price": 1280,
+        "promotionInfo": {
+          "offPrice": 1280,
+          "originalPrice": 1280,
+          "promotionPrice": 1280,
+          "skuId": 117011
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117011,
+        "sortScore": 0.42582836297164145,
+        "status": 1,
+        "stock": 10,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "精品黑木耳（散称）150g",
+        "venderId": 1,
+        "wareId": 117011
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/8cdfe330-f0c7-444c-a7d4-389386107785_360x360H",
+        "isTagPreSell": false,
+        "price": 878,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1596,
+          "originalPrice": 878,
+          "promotionDisplay": "特价",
+          "promotionPrice": 878,
+          "skuId": 112566
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 112566,
+        "sortScore": 0.424714539649214,
+        "status": 1,
+        "stock": 20,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "单晶冰糖（散称）500g",
+        "venderId": 1,
+        "wareId": 112566
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/50912890-291b-4a24-a1c3-ccb9b09bbab6_360x360H",
+        "isTagPreSell": false,
+        "price": 1890,
+        "promotionInfo": {
+          "offPrice": 1890,
+          "originalPrice": 1890,
+          "promotionPrice": 1890,
+          "skuId": 117016
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117016,
+        "sortScore": 0.4224094307033386,
+        "status": 1,
+        "stock": 12,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "枸杞（散称）200g",
+        "venderId": 1,
+        "wareId": 117016
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160217/01065948-d097-4dfc-b691-057cf02c7990_360x360H",
+        "isTagPreSell": false,
+        "price": 435,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 956,
+          "originalPrice": 435,
+          "promotionDisplay": "特价",
+          "promotionPrice": 435,
+          "skuId": 117020
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117020,
+        "sortScore": 0.41126502654518293,
+        "status": 1,
+        "stock": 155,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "绵白糖（散称）500g",
+        "venderId": 1,
+        "wareId": 117020
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/9e89b025-64dc-425a-955b-5fed8294047b_360x360H",
+        "isTagPreSell": false,
+        "price": 690,
+        "promotionInfo": {
+          "offPrice": 690,
+          "originalPrice": 690,
+          "promotionPrice": 690,
+          "skuId": 100088
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 100088,
+        "sortScore": 0.38768585186445664,
+        "status": 1,
+        "stock": 9,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "雪花银耳（散称）50g",
+        "venderId": 1,
+        "wareId": 100088
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/163aa09f-3227-4e13-8175-1094e7c99bb1_360x360H",
+        "isTagPreSell": false,
+        "price": 768,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1396,
+          "originalPrice": 768,
+          "promotionDisplay": "特价",
+          "promotionPrice": 768,
+          "skuId": 115329
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115329,
+        "sortScore": 0.3622737495670431,
+        "status": 1,
+        "stock": 17,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "红糖（散称）500g",
+        "venderId": 1,
+        "wareId": 115329
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/4cf7326b-98bc-47ba-8736-12ce5ba59b3b_360x360H",
+        "isTagPreSell": false,
+        "price": 504,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1096,
+          "originalPrice": 504,
+          "promotionDisplay": "特价",
+          "promotionPrice": 504,
+          "skuId": 115330
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115330,
+        "sortScore": 0.3513322359408872,
+        "status": 1,
+        "stock": 55,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "白砂糖（散称）500g",
+        "venderId": 1,
+        "wareId": 115330
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/f56e2aad-03a5-494e-bb4d-8306a4e15bc5_360x360H",
+        "isTagPreSell": false,
+        "price": 1480,
+        "promotionInfo": {
+          "offPrice": 1480,
+          "originalPrice": 1480,
+          "promotionPrice": 1480,
+          "skuId": 100017
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 100017,
+        "sortScore": 0.31383851823652276,
+        "status": 1,
+        "stock": 21,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "干香菇（散称）95g",
+        "venderId": 1,
+        "wareId": 100017
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/faecc991-5176-4b19-b746-c186fd7d79b1_360x360H",
+        "isTagPreSell": false,
+        "price": 768,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1396,
+          "originalPrice": 768,
+          "promotionDisplay": "特价",
+          "promotionPrice": 768,
+          "skuId": 112565
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 112565,
+        "sortScore": 0.1893542673320353,
+        "status": 1,
+        "stock": 20,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "绵白糖（散称）500g",
+        "venderId": 1,
+        "wareId": 112565
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160105/65923321-b8c4-4b2d-a54e-f5fba6bd4ff0_360x360H",
+        "isTagPreSell": false,
+        "price": 603,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1096,
+          "originalPrice": 603,
+          "promotionDisplay": "特价",
+          "promotionPrice": 603,
+          "skuId": 117022
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117022,
+        "sortScore": 0.6037583642107679,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "多晶冰糖（散称）500g",
+        "venderId": 1,
+        "wareId": 117022
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/e95c1780-0108-4092-ba27-27cb44888330_360x360H",
+        "isTagPreSell": false,
+        "price": 1090,
+        "promotionInfo": {
+          "offPrice": 1090,
+          "originalPrice": 1090,
+          "promotionPrice": 1090,
+          "skuId": 115389
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115389,
+        "sortScore": 0.5107661447302664,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "大料（散称）100g",
+        "venderId": 1,
+        "wareId": 115389
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20170503/0f734769-50a2-412d-9936-f89d190f621b_360x360H",
+        "isTagPreSell": false,
+        "price": 438,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 796,
+          "originalPrice": 438,
+          "promotionDisplay": "特价",
+          "promotionPrice": 438,
+          "skuId": 113756
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 113756,
+        "sortScore": 0.4995105984781111,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "糯米粉（散称）500g",
+        "venderId": 1,
+        "wareId": 113756
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20160606/bf777df2-5957-4216-83d0-9f7b611a9089_360x360H",
+        "isTagPreSell": false,
+        "price": 1280,
+        "promotionInfo": {
+          "offPrice": 1280,
+          "originalPrice": 1280,
+          "promotionPrice": 1280,
+          "skuId": 115339
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115339,
+        "sortScore": 0.4553342017802104,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "精选秋木耳 110g",
+        "venderId": 1,
+        "wareId": 115339
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/cb79e43b-afeb-4445-a1cf-37d453202fde_360x360H",
+        "isTagPreSell": false,
+        "price": 768,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1396,
+          "originalPrice": 768,
+          "promotionDisplay": "特价",
+          "promotionPrice": 768,
+          "skuId": 117018
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117018,
+        "sortScore": 0.44632990228397385,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "圆粉条（散称）500g",
+        "venderId": 1,
+        "wareId": 117018
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/1cacde40-07dd-4788-873e-4acf9dadfce6_360x360H",
+        "isTagPreSell": false,
+        "price": 750,
+        "promotionInfo": {
+          "offPrice": 750,
+          "originalPrice": 750,
+          "promotionPrice": 750,
+          "skuId": 117024
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117024,
+        "sortScore": 0.4289184052310682,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "蕨根粉（散称）400g",
+        "venderId": 1,
+        "wareId": 117024
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/f7069eaa-d7e4-4e89-a81a-a083f59771f1_360x360H",
+        "isTagPreSell": false,
+        "price": 493,
+        "promotionInfo": {
+          "matchedPros": [
+            {
+              "displayInfo": {
+                "proTag": "特价"
+              },
+              "proSubType": "SINGLE_SPECIAL_PRICE",
+              "proType": "SINGLE"
+            }
+          ],
+          "offPrice": 1440,
+          "originalPrice": 493,
+          "promotionDisplay": "特价",
+          "promotionPrice": 493,
+          "skuId": 117017
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 117017,
+        "sortScore": 0.40787223572898557,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "粉丝（散称）500g",
+        "venderId": 1,
+        "wareId": 117017
+      },
+      {
+        "brand": 1433,
+        "brandName": "其它",
+        "firstCat": 10248,
+        "firstCatName": "生鲜食品",
+        "img": "http://img.dmall.com/20161112/3d2de18e-c19b-4d0a-bf72-0bd7accfab84_360x360H",
+        "isTagPreSell": false,
+        "price": 2280,
+        "promotionInfo": {
+          "offPrice": 2280,
+          "originalPrice": 2280,
+          "promotionPrice": 2280,
+          "skuId": 115386
+        },
+        "secondCat": 11075,
+        "secondCatName": "散干货",
+        "shop": 339,
+        "skuId": 115386,
+        "sortScore": 0.40074863104407743,
+        "status": 2,
+        "stock": 0,
+        "tag": [],
+        "thirdCat": 11077,
+        "thirdCatName": "散称干货",
+        "title": "银耳（散称）200g",
+        "venderId": 1,
+        "wareId": 115386
+      }
+    ],
+    "page": {
+      "pageNum": 1,
+      "pageSize": 30,
+      "total": 26
+    }
+  },
+  "errCode": "0000",
+  "errMsg": ""
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "business": [
+      {
+        "businessCode": 0,
+        "description": "爆款放价 狂欢购",
+        "isDefault": false,
+        "label": "",
+        "logo": "https://img.dmall.com/bizItem/201704/fb8ee3c5-0928-4293-bae2-77fbf8f22c85",
+        "name": "周末大放价",
+        "storeId": 339,
+        "url": "https://a.dmall.com/act/8JNer6oy3iL12ClE.html",
+        "venderId": 1
+      },
+      {
+        "businessCode": 1,
+        "description": "超市商品，2小时达",
+        "isDefault": true,
+        "label": "https://img.dmall.com/bizItem/201612/c61ded35-a9f4-49a0-9fc3-193b6bafefec",
+        "logo": "https://img.dmall.com/bizItem/201610/5491eb6a-8a7b-4621-89ad-f22e904b6e7f",
+        "name": "多点超市",
+        "storeId": 339,
+        "url": "https://cmsapi.dmall.com/app/web/json/1/339",
+        "venderId": 1
+      },
+      {
+        "businessCode": 2,
+        "description": "优质甄选，好货低价",
+        "isDefault": false,
+        "label": "https://img.dmall.com/bizItem/201705/a7ccbc8a-af56-4d64-9cdb-671fccc18f82",
+        "logo": "https://img.dmall.com/bizItem/201610/1bf901f7-a57f-4176-ad53-16d709a10322",
+        "name": "全球精选",
+        "storeId": 339,
+        "url": "https://cmsapi.dmall.com/app/web/ysjson/1/339",
+        "venderId": 1
+      },
+      {
+        "businessCode": 0,
+        "description": "进口尖货，全球直采",
+        "isDefault": false,
+        "label": "",
+        "logo": "https://img.dmall.com/bizItem/201702/724e0767-0d3e-480c-8cc5-b6388d7b0f40",
+        "name": "世 • MALL",
+        "storeId": 339,
+        "url": "https://a.dmall.com/act/8s23GNnlBF.html",
+        "venderId": 1
+      }
+    ]
+  },
+  "errCode": "0000",
+  "errMsg": ""
+}
